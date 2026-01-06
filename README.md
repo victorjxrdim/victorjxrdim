@@ -14,7 +14,4 @@ Bem vindo ao meu perfil, me chamo Victor, e aqui você pode encontrar alguns pro
     <img align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)"/>
 </div>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorjxrdim&hide_progress=false)
-
 Persista. Sempre persista.
